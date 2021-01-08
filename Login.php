@@ -6,7 +6,7 @@
 
     <link rel="stylesheet" href="css/bootstrap.min.css">
     
-    <title>Login Correspondencia</title>
+    <title>Login Correspondencia Estadía</title>
 </head >
 <body style="background-image: url(Imagenes/fondoPinos.jpg); background-size: cover; background-repeat: no-repeat;">
 
